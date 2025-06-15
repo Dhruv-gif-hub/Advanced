@@ -16,7 +16,7 @@ Data Preparation and Cleanup
 To identify the most in-demand skills for the top three most popular data-related job roles. I began by filtering job postings to determine the roles with the highest frequency. For each of these top three roles, I then extracted the five most commonly required skills. This analysis highlights the most sought-after job titles along with their associated skill sets, providing valuable insights into which skills to prioritize based on the specific role.
 
 View my notebook with detailed steps here:
-[2_Skills_Count.ipynb](Project\2_Skills_Count_.ipynb)
+[2_Skills_Count.ipynb](https://github.com/Dhruv-gif-hub/Advanced/blob/main/Project/2_Skills_Count_.ipynb)
 
 ### Visualize Data
 
