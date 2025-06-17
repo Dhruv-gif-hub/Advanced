@@ -55,7 +55,7 @@ plt.show()
 ### Results
 
 ![Visualization for Top Skills in Data Science Jobs](
-Project\Images\Skill_Demand.png)
+https://github.com/Dhruv-gif-hub/Advanced/blob/main/Skill_Demand.png)
 
 ### Insights 
 
@@ -90,7 +90,7 @@ plt.show()
 ``` 
 ### Results 
 
-![Trending Top Skills for Data Analysis in India](Project\Images\Skill_Trend.png)
+![Trending Top Skills for Data Analysis in India](https://github.com/Dhruv-gif-hub/Advanced/blob/main/Skill_Trend.png)
 
 ### Insights:
 - SQL remains the most consistently demanded skill throughout the year, although it shows some high and low phases in demand.
@@ -118,7 +118,7 @@ plt.gca().xaxis.set_major_formatter(ticks_x)
 plt.show()
 ```
 #### Results 
-![Salary Distribution of Data Jobs in India](Project\Images\Salary_boxplots.png)
+![Salary Distribution of Data Jobs in India](https://github.com/Dhruv-gif-hub/Advanced/blob/main/Salary_boxplots.png)
 
 ### Insights
 Here are some concise professional insights based on the salary distribution data:
@@ -159,7 +159,7 @@ plt.tight_layout()
 #### Results 
 In-demand skills for data analysis in the India:
 
-![The Highest Paid & Most In-Demand Skills for Data Analysts in India](Project\Images\The_Highest_Paid_skills.png)
+![The Highest Paid & Most In-Demand Skills for Data Analysts in India](https://github.com/Dhruv-gif-hub/Advanced/blob/main/The_Highest_Paid_skills.png)
 #### Insights:
 
 - PostgreSQL leads as the highest paid skill for data analysts, with salaries reaching up to $160K, indicating its high market value.  
@@ -192,7 +192,7 @@ ax.xaxis.set_major_formatter(PercentFormatter(decimals=0))
 plt.tight_layout()
 plt.show()
 ````
-![Most Optional Skills for Data Analysts in India](Project\Images\Most_optimal_skills.png)
+![Most Optional Skills for Data Analysts in India](https://github.com/Dhruv-gif-hub/Advanced/blob/main/Most_optimal_skills.png)
 
 #### Insights
 - The analysis highlights that MongoDB stands out as the most lucrative skill in terms of median yearly salary, offering approximately $160K, even though it is required in only a small percentage of job postings. This suggests that expertise in niche database technologies can command premium pay.
