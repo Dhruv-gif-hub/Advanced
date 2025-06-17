@@ -1,4 +1,12 @@
-# Tools I Used
+# 📊 Data Analysis Project With Python
+A data analysis project built with Python, showcasing real-world data cleaning, exploration, visualization, and insights generation for decision-making.
+
+
+## 📁 Project Overview
+This project explores the landscape of data-related jobs and required skills. By leveraging Python-based data analysis techniques, this project provides actionable insights for aspiring data professionals, recruiters, and educators looking to align skill development with current industry needs in India’s growing data ecosystem.
+
+
+## Tools I Used
 For my deep dive into the data analyst job market, I harnessed the power of several key tools:
 
 - Python: The backbone of my analysis, allowing me to analyze the data and find critical insights.I also used the following Python libraries:
@@ -9,7 +17,7 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 - Visual Studio Code: My go-to for executing my Python scripts.
 - Git & GitHub: Essential for version control and sharing my Python code and analysis, ensuring collaboration and project tracking.
 Data Preparation and Cleanup
-# The Analysis 
+## The Analysis 
 
 ## 1. What are the most demanded skills for the top 3 most popular data role ?
 
